@@ -8,7 +8,7 @@ if (!isset($_SESSION['admin_email'])) {
 ?>
 
     <div class="row">
-        <!-- row 1 begin -->
+        <!-- row 1 start -->
         <div class="col-lg-12">
             <!-- col-lg-12 begin -->
             <ol class="breadcrumb">
